@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Ρεπορτάζ
+[ΑΠΟΚΛΕΙΣΤΙΚΟ: “Στον Αέρα” Οι Προσλήψεις Εργαζομένων Στην Φοιτητική Λέσχη Του Α.Π.Θ](https://thesocialist.gr/apokleistiko-ston-aera-oi-proslipeis-ergazomenwn-stin-foititiki-lesxi-toy-auth/)
+[Η Συνέντευξη Τύπου Του Αλέξη Τσίπρα Στο “THF”: “O ΣΥΡΙΖΑ Είναι Έτοιμος Να Αναλάβει Τα Ηνία Της Χώρας “Αύριο Κι Όλας”](https://thesocialist.gr/synenteyksi-typou-alexi-tsipra-thessaloniki-helexpo-forum-o-syriza-einai-etoimos-na-analavei-ta-inia-tis-xwras-aurio-ki-olas/)
+[ΡΕΠΟΡΤΑΖ “The Socialist”: Πορείες Στην Θεσσαλονίκη Εν Όψει Επίσκεψης Μητσοτάκη!](https://thesocialist.gr/reportaz-the-socialist-poreies-thessaloniki-en-opsei-episkepsis-mitsotaki-fwtografies/)
+[ΡΕΠΟΡΤΑΖ “Τhe Socialist”: Ένταση Με Τα ΜΑΤ Στην Πορεία – Η Στιγμή Της Έντασης](https://thesocialist.gr/reportaz-the-socialist-entasi-mat-thessaloniki-poreia/)
+## Συνεντεύξεις
+[editor on GitHub](https://github.com/dimitrismpamp/portfolio/edit/main/README.md)
+[editor on GitHub](https://github.com/dimitrismpamp/portfolio/edit/main/README.md)
+[editor on GitHub](https://github.com/dimitrismpamp/portfolio/edit/main/README.md)
+[editor on GitHub](https://github.com/dimitrismpamp/portfolio/edit/main/README.md)
+[editor on GitHub](https://github.com/dimitrismpamp/portfolio/edit/main/README.md)
+[editor on GitHub](https://github.com/dimitrismpamp/portfolio/edit/main/README.md)
+[editor on GitHub](https://github.com/dimitrismpamp/portfolio/edit/main/README.md)
 
-You can use the [editor on GitHub](https://github.com/dimitrismpamp/portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dimitrismpamp/portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Άρθρα γνώμης – Έρευνας
+[editor on GitHub](https://github.com/dimitrismpamp/portfolio/edit/main/README.md)
+[editor on GitHub](https://github.com/dimitrismpamp/portfolio/edit/main/README.md)
+[editor on GitHub](https://github.com/dimitrismpamp/portfolio/edit/main/README.md)
