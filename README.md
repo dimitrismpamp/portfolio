@@ -5,13 +5,13 @@
 - [ΡΕΠΟΡΤΑΖ “The Socialist”: Πορείες Στην Θεσσαλονίκη Εν Όψει Επίσκεψης Μητσοτάκη!](https://thesocialist.gr/reportaz-the-socialist-poreies-thessaloniki-en-opsei-episkepsis-mitsotaki-fwtografies/)
 - [ΡΕΠΟΡΤΑΖ “Τhe Socialist”: Ένταση Με Τα ΜΑΤ Στην Πορεία – Η Στιγμή Της Έντασης](https://thesocialist.gr/reportaz-the-socialist-entasi-mat-thessaloniki-poreia/)
 ## Συνεντεύξεις
-[editor on GitHub](https://github.com/dimitrismpamp/portfolio/edit/main/README.md)
-[editor on GitHub](https://github.com/dimitrismpamp/portfolio/edit/main/README.md)
-[editor on GitHub](https://github.com/dimitrismpamp/portfolio/edit/main/README.md)
-[editor on GitHub](https://github.com/dimitrismpamp/portfolio/edit/main/README.md)
-[editor on GitHub](https://github.com/dimitrismpamp/portfolio/edit/main/README.md)
-[editor on GitHub](https://github.com/dimitrismpamp/portfolio/edit/main/README.md)
-[editor on GitHub](https://github.com/dimitrismpamp/portfolio/edit/main/README.md)
+- [Συνέντευξη Βασίλης Κεγκέρογλου: “Σοσιαλδημοκρατία, Κεντροαριστερά Και Σύριζα Αποδείχθηκε Ότι Είναι Έννοιες Ασύμβατες.”](https://thesocialist.gr/synenteyksi-vassilis-kegkeroglou-sosialdimokratia-kentroaristera-kai-syriza-apodeixthikan-ennoies-asymbates/)
+- [Συνέντευξη Μιχάλης Καρχιμάκης: “Υπάρχει Κίνδυνος Απαξίωσης Της Πολιτικής Που Θα Το Εκμεταλλευτούν Τα Μεγάλα Οικονομικά Συμφέροντα”](https://thesocialist.gr/synenteyksi-mixalis-karximakis-yparxei-kindynos-apaksiwsis-tis-politikis-pou-tha-to-ekmetalleytoun-ta-megala-oikonomika-symferonta/)
+- [Συνέντευξη Στέλιος Κούλογλου: “Η Παρέμβαση Μιωνή Έγινε Την Ημέρα Που Θα Έβγαινε Στη Δημοσιότητα Και Θα Συζητείτο Στην Προανακριτική Επιτροπή Η Υπόθεση Των  2,6 Εκατ. Ευρώ Που Μέσω Παπασταύρου Φέρονται Να Καταλήγουν Στον Κ. Σαμαρά.”](https://thesocialist.gr/stelios-kouloglou-synenteyksi-the-socialist/)
+- [Συνέντευξη Μιχάλης Κατρίνης: «Οι Δημοκρατικοί Πολίτες Απαιτούν Πρωτοβουλίες Και Μια Νέα, Εναλλακτική Προοδευτική Πρόταση.»](https://thesocialist.gr/michalis-katrinis-oi-dimokratikoi-polites-apaitoun-prwtovoulies-kai-mia-nea-allagi/)
+- [Συνέντευξη: Ευαγγελία Λιακούλη: “Άβουλη Και Μοιραία” Η Κυβέρνηση Μητσοτάκη – “Νεο-Συριζαϊκός Γεννιτσαρισμος” Οι Δηλώσεις Ξενογιαννακοπούλου Για ΚΙΝΑΛ](https://thesocialist.gr/evangelia-liakouli-synenteuksi-the-socialist/)
+- [Συνέντευξη: Νάντια Γιαννακοπούλου: “Την Μετατροπή Της Αγίας-Σοφίας Σε Τζαμί , Ο Ερντογάν Και Η Τουρκία Θα Την Πληρώσουν!”](https://thesocialist.gr/nadia-giannakopoulou-tin-metatropi-tis-agias-sofias-se-tzami-o-erdogan-kai-i-tourkia-tha-tin-metaniwsoun/)
+- [Συνέντευξη: Παναγιώτης Καρκατσούλης: “Η ΝΔ Του Κυριάκου Μητσοτάκη, Θέλει Να Εγκαθιδρύσει Κράτος Της Δεξιάς Τον 21ο Αιώνα!](https://thesocialist.gr/panagiotis-karkatsoulis-nd-kybernisi-mitsotaki-kratos-deksias/)
 
 ## Άρθρα γνώμης – Έρευνας
 [editor on GitHub](https://github.com/dimitrismpamp/portfolio/edit/main/README.md)
