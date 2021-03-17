@@ -15,6 +15,6 @@
 - [Συνέντευξη: Παναγιώτης Καρκατσούλης: “Η ΝΔ Του Κυριάκου Μητσοτάκη, Θέλει Να Εγκαθιδρύσει Κράτος Της Δεξιάς Τον 21ο Αιώνα!](https://thesocialist.gr/panagiotis-karkatsoulis-nd-kybernisi-mitsotaki-kratos-deksias/)
 
 ## Άρθρα γνώμης – Έρευνας
-[Άρθρο-Έρευνα: “Φτάνει Ρε.. Παιδιά”- Η Αστυνομική Βία Στην Ελλάδα.](https://thesocialist.gr/arthro-ereyvna-ftanei-re-paidia-i-astynomiki-bia-stin-ellada/)
-[“Ο Δημοσιογράφος, Είναι Υπόλογος ΜΟΝΟ Στον Πολίτη.” Του Δημήτρη Μπαμπούλη.](https://thesocialist.gr/o-dimosiografos-upologos-mono-ston-politi-dimitris-mpampoulis/)
-[“Δυσοίωνες Προβλέψεις Για Τις Μικρομεσαίες Επιχειρήσεις: 6/10 Δηλώνουν Δυσαρέσκεια Με Τα Μέτρα Της Κυβέρνησης!”](https://thesocialist.gr/dysoines-problepseis-gia-tis-mikromesaies-epixeiriseis-eksi-stis-deka-kleinoyn/)
+- [Άρθρο-Έρευνα: “Φτάνει Ρε.. Παιδιά”- Η Αστυνομική Βία Στην Ελλάδα.](https://thesocialist.gr/arthro-ereyvna-ftanei-re-paidia-i-astynomiki-bia-stin-ellada/)
+- [“Ο Δημοσιογράφος, Είναι Υπόλογος ΜΟΝΟ Στον Πολίτη.” Του Δημήτρη Μπαμπούλη.](https://thesocialist.gr/o-dimosiografos-upologos-mono-ston-politi-dimitris-mpampoulis/)
+- [“Δυσοίωνες Προβλέψεις Για Τις Μικρομεσαίες Επιχειρήσεις: 6/10 Δηλώνουν Δυσαρέσκεια Με Τα Μέτρα Της Κυβέρνησης!”](https://thesocialist.gr/dysoines-problepseis-gia-tis-mikromesaies-epixeiriseis-eksi-stis-deka-kleinoyn/)
