@@ -1,10 +1,15 @@
 ## Πολιτισμικά
 
 - [Κινηματογράφος και 28η Οκτωβρίου: Κακή προπαγάνδα, κάκιστες ταινίες](https://tvxs.gr/news/ellada/28i-oktobrioy-kaki-propaganda-akomi-xeiroteres-tainies)
+  
 - [«Χορεύετε;»: Μία παράσταση για τις μαρτυρικές μνήμες που δείχνουν τα βήματα για το μέλλον](https://tvxs.gr/news/theatro/xoreyete-mia-parastasi-gia-tis-martyrikes-mnimes-poy-deixnoyn-ta-bimata-gia-mellon)
+  
 - [«Ο φίλος μου ο Ντοστογιέφσκι»: Ένας μονόλογος που «συνομιλεί» με το «Όνειρο ενός γελοίου»](https://tvxs.gr/news/theatro/o-filos-moy-o-ntostogiefski-enas-monologos-poy-synomilei-me-oneiro-enos-geloioy)
+  
 - [Αντιγόνη, μετέωρη: Μία ιδιαίτερη και καθηλωτική προσέγγιση της αρχαίας τραγωδίας](https://tvxs.gr/news/theatro/antigoni-meteori-mia-idiaiteri-kai-kathilotiki-proseggisi-tis-arxaias-tragodias)
+  
 - [Πόσες φορές αντέχουμε να δούμε ξανά «Friends» και «The Office»;](https://tvxs.gr/news/sinema/poses-fores-antexoyme-na-doyme-ksana-friends-kai-office)
+  
 - [«Η Φαλακρή τραγουδίστρια»: Μία παράλογη κωμωδία του Ιονέσκο από την ομάδα Loxodox](https://tvxs.gr/news/theatro/i-falakri-tragoydistria-mia-paralogi-komodia-toy-ionesko-apo-tin-omada-loxodox)
 
 ## Συνεντεύξεις
