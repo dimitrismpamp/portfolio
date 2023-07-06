@@ -1,5 +1,10 @@
-## Πολιτισμικά
-
+## Πολιτισμικά - Συνεντεύξεις
+- [Μιχάλης Ατσάλης: Όταν επικοινωνώ μέσω της μουσικής αποκτώ μια εξωστρέφεια και νιώθω ολοκληρωμένος](https://tvxs.gr/news/moysiki/mixalis-atsalis-otan-epikoinono-meso-tis-moysikis-niotho-olokliromenos-kai-eksostrefis)
+  
+- [Γκιντίκι στο tvxs: Πειραματιζόμαστε με την παραδοσιακή μουσική βάζοντας στοιχεία από άλλα ακούσματά μας](https://tvxs.gr/news/moysiki/gkintiki-sto-tvxs-peiramatizomaste-me-tin-paradosiaki-moysiki-bazontas-stoixeia-apo-all)
+  
+- [Ολίνα Γεωργουλοπούλου: Το τραγούδι για μένα είναι επικοινωνία και αυτό το «μαζί»](https://tvxs.gr/news/moysiki/olina-georgoylopoyloy-tragoydi-gia-mena-einai-epikoinonia-kai-ayto-mazi)
+  
 - [Κινηματογράφος και 28η Οκτωβρίου: Κακή προπαγάνδα, κάκιστες ταινίες](https://tvxs.gr/news/ellada/28i-oktobrioy-kaki-propaganda-akomi-xeiroteres-tainies)
   
 - [«Χορεύετε;»: Μία παράσταση για τις μαρτυρικές μνήμες που δείχνουν τα βήματα για το μέλλον](https://tvxs.gr/news/theatro/xoreyete-mia-parastasi-gia-tis-martyrikes-mnimes-poy-deixnoyn-ta-bimata-gia-mellon)
@@ -12,12 +17,7 @@
   
 - [«Η Φαλακρή τραγουδίστρια»: Μία παράλογη κωμωδία του Ιονέσκο από την ομάδα Loxodox](https://tvxs.gr/news/theatro/i-falakri-tragoydistria-mia-paralogi-komodia-toy-ionesko-apo-tin-omada-loxodox)
 
-## Συνεντεύξεις
-- [Μιχάλης Ατσάλης: Όταν επικοινωνώ μέσω της μουσικής αποκτώ μια εξωστρέφεια και νιώθω ολοκληρωμένος](https://tvxs.gr/news/moysiki/mixalis-atsalis-otan-epikoinono-meso-tis-moysikis-niotho-olokliromenos-kai-eksostrefis)
-  
-- [Γκιντίκι στο tvxs: Πειραματιζόμαστε με την παραδοσιακή μουσική βάζοντας στοιχεία από άλλα ακούσματά μας](https://tvxs.gr/news/moysiki/gkintiki-sto-tvxs-peiramatizomaste-me-tin-paradosiaki-moysiki-bazontas-stoixeia-apo-all)
-  
-- [Ολίνα Γεωργουλοπούλου: Το τραγούδι για μένα είναι επικοινωνία και αυτό το «μαζί»](https://tvxs.gr/news/moysiki/olina-georgoylopoyloy-tragoydi-gia-mena-einai-epikoinonia-kai-ayto-mazi)
+## Πολιτικές Συνεντεύξεις
   
 - [Συνέντευξη Βασίλης Κεγκέρογλου: “Σοσιαλδημοκρατία, Κεντροαριστερά Και Σύριζα Αποδείχθηκε Ότι Είναι Έννοιες Ασύμβατες.”](https://thesocialist.gr/synenteyksi-vassilis-kegkeroglou-sosialdimokratia-kentroaristera-kai-syriza-apodeixthikan-ennoies-asymbates/)
 
